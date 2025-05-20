@@ -1,2 +1,0 @@
-/Users/hasanefe/IdeaProjects/birimfiyatlar/android/app/.cxx/RelWithDebInfo/70493b6q/armeabi-v7a/CMakeFiles/edit_cache.dir
-/Users/hasanefe/IdeaProjects/birimfiyatlar/android/app/.cxx/RelWithDebInfo/70493b6q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
