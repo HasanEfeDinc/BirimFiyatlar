@@ -15,6 +15,4 @@ Devletin yayımladığı birim fiyat pozlarını hızlı ve kullanıcı dostu ar
 
 📦 REST API entegrasyonu: Veriler devlet destekli güncel endpoint üzerinden dinamik olarak çekilir
 
-🌙 Responsive arayüz: Modern, sade ve erişilebilir bir UI/UX yapısı
-
 **
