@@ -1,18 +1,18 @@
-# BirimFiyatlar
-Devlet tarafından yayımlanan inşaat poz ve analiz kitaplarına hızlı erişim sağlayan mobil uygulama.  Bu Flutter projesi, kullanıcıların birim fiyat kitaplarını filtreleyerek poz detaylarına ulaşmalarını sağlar. Modern arayüzü ve kullanışlı arama özellikleriyle saha mühendisleri, teknikerler ve proje yöneticileri için pratiktir.
-
+UnitPrices
+A mobile application that provides quick access to government-published construction poz and analysis books.
+This Flutter project allows users to filter unit price books and access detailed poz information.
+With its modern interface and powerful search features, it is practical for field engineers, technicians, and project managers.
 
 **
-📱 n.Birim Fiyat
-Devletin yayımladığı birim fiyat pozlarını hızlı ve kullanıcı dostu arayüzle görüntülemenizi sağlayan Flutter tabanlı mobil uygulama.
+📱 n.Unit Price
+A Flutter-based mobile application that enables users to view government-published unit price poz data through a fast and user-friendly interface.
 
-🚀 Özellikler
-📚 Kitap listesi seçimi: İlgili poz kitaplarını filtrele
+🚀 Features
+📚 Book selection: Filter and select relevant poz books
 
-🔍 Poz arama: Seçilen kitaplar içerisinde anahtar kelime ile arama yap
+🔍 Poz search: Search within selected books using keywords
 
-📄 Poz detay ekranı: Açıklama, birim, analiz ve kaynak bilgileriyle detaylı görüntü
+📄 Poz detail screen: View descriptions, units, analyses, and resource data in detail
 
-📦 REST API entegrasyonu: Veriler devlet destekli güncel endpoint üzerinden dinamik olarak çekilir
-
+📦 REST API integration: Data is dynamically fetched from a government-supported, up-to-date endpoint
 **
